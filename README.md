@@ -1,4 +1,4 @@
-Drive Smash is a high-speed, action-packed 2D game that challenges players to navigate through intense obstacles and enemies while smashing through barriers. The game is designed to test players' reflexes, strategic thinking, and decision-making skills in a fast-paced environment.< br / >
+Drive Smash is a high-speed, action-packed 2D game that challenges players to navigate through intense obstacles and enemies while smashing through barriers. The game is designed to test players' reflexes, strategic thinking, and decision-making skills in a fast-paced environment.
 **The game features:**
 **1. Dynamic Gameplay**: Fast-paced action with responsive controls.
 **2. Exciting Levels:** Multiple stages with increasing difficulty.
